@@ -1,0 +1,11 @@
+.button{
+    background-color: black;
+    color: var(--color-primary);
+    border-radius: 12px;
+    padding: 10px 16px;
+    
+    margin: 14px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    color:rgb(149, 241, 149);
+}
