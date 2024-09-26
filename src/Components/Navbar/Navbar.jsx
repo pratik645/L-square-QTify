@@ -5,7 +5,6 @@ import styles from './Navbar.module.css'
 import LogoImage from "../../Assests/logo.png"
 
 
-
 export default function Navbar(){
     return(
         <>

@@ -1,16 +1,15 @@
 .navbar {
-    background-color: var(--color-primary);
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 105vw;
-    height: 74px;
-    padding: 0px 32px;
-    background-color: rgb(149, 241, 149);
-  }
-  
+  background-color: var(--color-primary);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 105vw;
+  height: 74px;
+  padding: 0px 32px;
+  background-color: rgb(149, 241, 149);
+}
 
-  .logoDiv{
-    display: flex;
-    margin: 14px;
-  }
+.logoDiv{
+  display: flex;
+  margin: 14px;
+}
